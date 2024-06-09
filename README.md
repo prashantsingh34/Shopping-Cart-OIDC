@@ -46,4 +46,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 The primary purpose of this project
 The CICD pipeline diagrammatic representation  --->
 
-![Cat Picture](dia.png)
+![CICD diagram](dia.png)
